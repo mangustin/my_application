@@ -10,6 +10,7 @@ import android.widget.TextView;
 public class MainActivity extends ActionBarActivity {
 
     TextView tv;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -39,8 +40,9 @@ public class MainActivity extends ActionBarActivity {
 
         return super.onOptionsItemSelected(item);
     }
-    private void showChanges(){
 
-        
+    private void showChanges() {
+
+        private void showChanges2 () {
+        }
     }
-}
